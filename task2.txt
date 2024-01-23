@@ -7,4 +7,4 @@ Internet - bu standartlashtirilgan protokollar to'plami orqali muloqot qiladigan
 5. DNS (Domain Name System)  -  vazifasi Domain Name shaklidan IP Address shakliga o'girsh
 6. HTTP (Hypertext Transfer Protocol) - client (web browser) va server (website) o'rtasida malumot uztadi
 7. HTTPS - client va server o'rtasida havfsiz muloqotni taminlash uchun HTTPning shifrlangan varsiyasi
-8. SSL/TLS - (Secure Sockets Layer)/(Transport Layer Security) internet bo'ylab havfsiz muloqotni taminlaydi
+8. SSL/TLS - (Secure Sockets Layer)/(Transport Layer Security) internet bo'ylab havfsiz muloqotni taminlaydi.
