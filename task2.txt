@@ -1,4 +1,4 @@
-Internet - bu standartlashtirilgan protokollar to'plami orqali muloqot qiladigan bir-biriga ulangan kompyuterlarning global tarmog'idir.
+
 
 1. Packet - internet orqali uzatiladigan malumotning biri kichik qismi
 2. Router - turli tarmoqlar o'rtasida malumotlarni yo'naltiruvchi qurilma
