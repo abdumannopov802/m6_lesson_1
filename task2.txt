@@ -1,5 +1,4 @@
 
-
 1. Packet - internet orqali uzatiladigan malumotning biri kichik qismi
 2. Router - turli tarmoqlar o'rtasida malumotlarni yo'naltiruvchi qurilma
 3. IP Address - tarmoqdagi har bir qurilmaga belgilangan yagona identifikator, malumotlarni to'g'ri manzilga yo'naltirish uchun ishlatiladi
@@ -7,4 +6,4 @@
 5. DNS (Domain Name System)  -  vazifasi Domain Name shaklidan IP Address shakliga o'girsh
 6. HTTP (Hypertext Transfer Protocol) - client (web browser) va server (website) o'rtasida malumot uztadi
 7. HTTPS - client va server o'rtasida havfsiz muloqotni taminlash uchun HTTPning shifrlangan varsiyasi
-8. SSL/TLS - (Secure Sockets Layer)/(Transport Layer Security) internet bo'ylab havfsiz muloqotni taminlaydi.
+8. SSL/TLS - (Secure Sockets Layer)/(Transport Layer Security) internet bo'ylab havfsiz muloqotni taminlaydi

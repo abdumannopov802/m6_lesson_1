@@ -32,4 +32,5 @@ urlpatterns = [
     path('sport', sport),
     path('nuqtainazar', nuqtainazar),
     path('audio', audio)
+    
 ]
