@@ -1,7 +1,10 @@
+from django.shortcuts import render
 from django.http import HttpResponse
 
+
+
 def sayhello(request):
-    return HttpResponse('Hello workd...')
+    return render(request=request, template_name="index.html", context={})
 
 def mainview(request):
     return HttpResponse ("Main View")
